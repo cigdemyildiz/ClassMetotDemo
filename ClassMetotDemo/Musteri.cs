@@ -10,6 +10,7 @@ namespace ClassMetotDemo
         public long MusteriTc { get; set; }
         public string MusteriAd { get; set; }
         public string MusteriSoyad { get; set; }
+
        
     }
 }

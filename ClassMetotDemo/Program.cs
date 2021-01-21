@@ -48,6 +48,7 @@ namespace ClassMetotDemo
             Console.WriteLine("Silinen Müşteri Tc: " + musteri3.MusteriTc + " Müşteri Adı: " + musteri3.MusteriAd + " Müşteri Soyad: " + musteri3.MusteriSoyad);
 
 
+
         }
     }
 }
